@@ -26,7 +26,7 @@ bake upgrade
 
 Then run:
 ```
-bake run flecs-hub/city
+bake run flecs-hub/city --cfg release
 ```
 
 Have fun!
