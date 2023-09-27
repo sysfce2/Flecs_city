@@ -1,7 +1,7 @@
 # city
 Simple procedural city generator. Standalone Flecs project with embedded graphics modules ([live webasm demo](https://flecs.dev/city))
 
-<img width="1312" alt="Screen Shot 2021-12-21 at 2 17 27 PM" src="https://user-images.githubusercontent.com/9919222/147004880-da177044-4cdb-4c1c-aec3-c691c4ebad79.png">
+<img width="1194" alt="Screenshot 2023-09-27 at 1 35 29 AM" src="https://github.com/flecs-hub/city/assets/9919222/cc402eb2-e31a-4bbb-bd14-1dac397b8417">
 
 ## How to run
 Use the following commands to run the demo:
