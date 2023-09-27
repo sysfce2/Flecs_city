@@ -32,4 +32,4 @@ bake run flecs-hub/city --cfg release
 Have fun!
 
 ## How to use
-To customize the city generation parameters, change the settings in the etc/assets/scene.plecs file.
+To customize the city generation parameters, change the settings in the etc/assets/scene.flecs file.
